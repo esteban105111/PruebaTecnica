@@ -1,0 +1,234 @@
+header{
+
+    background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
+    height: 400px;
+    
+
+
+
+}
+h3,#ima1,#ima2{
+    display:inline-block;
+    
+
+
+}
+header h3{
+margin-top: 100px;
+font-size: 27.66px;
+font-style: normal;
+font-weight: bold;
+line-height: 21px;
+
+
+color: #F7931A;
+}
+
+#p1{
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 42px;
+  
+    
+    text-align: center;
+    
+   
+    
+    color: #FFFFFF;
+}
+#p2{
+margin-top: 30px;    
+font-family: DM Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+color: white;
+
+}
+main h3{
+    margin-top: 50px;
+    
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 42px;
+/* or 105% */
+
+text-align: center;
+}
+
+main img{
+    margin:10px auto;
+		    display:block;
+}
+#p4{
+    margin-top: 20px;
+height: 72px;
+left: 487px;
+right: 487px;
+top: calc(50% - 72px/2 + 490px);
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #BABABA;
+}
+.table1{
+    display: inline;
+}
+
+#tabla1{
+   margin-left: 450px;
+   float: left;
+   
+}
+#tabla2{
+    
+    float: left;
+    
+ }
+ #H3{
+     
+     text-align: center;
+     margin-top: 50px;
+     width: 466px;
+height: 84px;
+left: calc(50% - 466px/2);
+top: calc(50% - 84px/2 - 305.5px);
+font-weight: bold;
+font-size: 40px;
+line-height: 42px;
+color: #FFFFFF;
+ }
+ #P5{
+    
+    
+    
+    color: #808080;
+    
+ }
+ #moneda{
+    
+    
+    color: #FF9536;
+    
+ }
+ #comi{
+    color: #1A9AF7;
+
+ }
+ 
+ #valor1{
+    background: #FFE9D4;
+
+ }
+ #valor2{
+    background: #E7F5FF;
+
+ }
+
+ 
+
+#P6{
+ margin-top: 350px;
+ text-align: center;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 26px;
+padding: 50px;
+
+
+text-align: center;
+
+
+
+color:white;
+    
+
+}
+#P7{
+margin-top: 10px;
+ font-style: normal;
+font-weight: 500;
+font-size: 20px;
+text-align: center;
+
+color: #808080;
+
+}
+
+footer{
+    
+    height: 400px;
+    background: #F7931A;
+}
+ #frame{
+    margin-left: 400px;
+    padding: 60px;
+}
+
+#boot{
+margin-left: 1000px;
+margin-inline-end: auto;
+}
+.fondo{
+    background: url(Imagenes/bitcoinbaby\ 2.png);
+    height: 600px;
+    background-size: cover;
+}
+#P8{
+text-align: center;
+padding: 300px;    
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 42px;
+color:white;
+
+
+}
+#P9{
+    margin-top: 350px;
+    text-align: center;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 34px;
+   line-height: 26px;
+   
+   
+   text-align: center;
+   
+   
+   
+   color:black;
+       
+}
+#P10{
+    margin-top: 50px;
+    text-align: center;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 20px;
+   line-height: 16px;
+   
+   
+   text-align: center;
+   
+   
+   
+color: #757575;
+
+}
+.cajas{
+    background: #201E1C;
+
+
+}
+   
