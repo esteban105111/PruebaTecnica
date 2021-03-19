@@ -9,3 +9,5 @@ Que cosas necesitas para instalar el software y como instalarlas
 -son dos archivos, el index.html y el stilo css
 -abrirlo directamente con el navegador o desde Visual estudio code 
 
+--no esta completamente terminado ya que se me presentaron algunos inconvenientes, pero quedo atento a cualquier novedad, muchas gracias y disculpa.
+
